@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\obj\\Release\\net8.0\\compressed\\1fwfahzdi7.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\obj\\Release\\net8.0\\scopedcss\\bundle\\ShortenApp.styles.css",
+      "PackagePath": "staticwebassets\\ShortenApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\obj\\Release\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\obj\\Release\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\Edward\\Desktop\\ultimolab\\lab-2024-rec-si982-u3-01-edwardapaza\\src\\ShortenApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ShortenApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ShortenApp.props",
+      "PackagePath": "build\\ShortenApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShortenApp.props",
+      "PackagePath": "buildMultiTargeting\\ShortenApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShortenApp.props",
+      "PackagePath": "buildTransitive\\ShortenApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
